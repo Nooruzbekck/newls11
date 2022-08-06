@@ -1,6 +1,6 @@
-import mealsImage from '../img/meals.jpeg'
+import mealsImage from '../../img/photo.jpeg'
 import classes from './Header.module.css'
-import { HeaderCartButton } from './Layout/HeaderCartButton'
+import { HeaderCartButton } from './HeaderCartButton'
 
 export const Header = () => {
     return (
